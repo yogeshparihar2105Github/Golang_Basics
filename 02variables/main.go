@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// jwt := "324560sdlbos" // You can't use comma okay syntax in global
+// jwt := "324560sdlbos" // You can't use this type of variable declaration syntax in global
 
 const LoginToken string = "sdgyeosdgo" // First Letter Is Capital Means Public
 
